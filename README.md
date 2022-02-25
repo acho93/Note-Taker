@@ -8,6 +8,8 @@ You can check out the deployed app here: https://fast-bayou-40029.herokuapp.com/
 ## Installation
 You will need to run npm install to install all dependencies. To use the application locally, run npm start and open http://localhost:3001/ in your brower.
 
+## Image
+
 ## Contribution
 Ashley Cho
 
